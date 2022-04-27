@@ -1,0 +1,16 @@
+.navbar-area {
+  background: #ffff;
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+}
+.navbar-area img {
+  width: 25px;
+  padding: 0.65rem;
+  transition: 100ms ease-out;
+  border-radius: 50%;
+}
+.navbar-area img:hover {
+  background: rgba(164, 164, 164, 0.804);
+  transition: 300ms ease-in;
+}
