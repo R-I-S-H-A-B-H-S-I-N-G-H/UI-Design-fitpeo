@@ -29,20 +29,20 @@ function Maincontent(params) {
 					</div>
 					<div className="totalinstall">
 						<div>Total Installs</div>
-						<h4>+2.4%</h4>
-						<h1>18,765</h1>
+						<h4>+8.4%</h4>
+						<h1>1,765</h1>
 					</div>
 				</div>
 				<div className="second">
 					<div className="totaldown">
 						<div>Total Active Downloads</div>
-						<h4>+2.4%</h4>
-						<h1>18,765</h1>
+						<h4>+20%</h4>
+						<h1>765</h1>
 					</div>
 					<div className="totalrevenue">
 						<div>Total Revenue</div>
-						<h4>+2.4%</h4>
-						<h1>18,765</h1>
+						<h4>+19%</h4>
+						<h1>98,765</h1>
 					</div>
 				</div>
 			</div>

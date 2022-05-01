@@ -98,28 +98,28 @@ p {
 .totalactive {
 	width: 40%;
 	height: 80%;
-	padding: 0.5rem;
+	padding: 1rem;
 	border-radius: 0.5rem;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .totalinstall {
 	width: 40%;
 	height: 80%;
-	padding: 0.5rem;
+	padding: 1rem;
 	border-radius: 0.5rem;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .totaldown {
 	width: 40%;
 	height: 80%;
-	padding: 0.5rem;
+	padding: 1rem;
 	border-radius: 0.5rem;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .totalrevenue {
 	width: 40%;
 	height: 80%;
-	padding: 0.5rem;
+	padding: 1rem;
 	border-radius: 0.5rem;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -148,5 +148,17 @@ h2 {
 	}
 	.features img {
 		width: 100%;
+	}
+	.totalactive {
+		padding: 0.6rem;
+	}
+	.totalinstall {
+		padding: 0.6rem;
+	}
+	.totaldown {
+		padding: 0.6rem;
+	}
+	.totalrevenue {
+		padding: 0.6rem;
 	}
 }
